@@ -10,7 +10,7 @@
 
 - 'feat 1': adição de novos elementos :heavy_check_mark: 
 - 'feat 2': remoção de item
-- 'feat 3': salvar no LocalStorage a mochila com um nome
+- 'feat 3': salvar no LocalStorage a mochila com um nome :heavy_check_mark:
 - 'feat 4': selecionar a mochila salva pelos nomes e carregar conteúdo
 - 'feat 5': categorias para os elementos
 - 'feat 6': interface gráfica que permite mostrar e esconder as categorias, clicando em regiões da mochila
