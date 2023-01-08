@@ -2,7 +2,7 @@
 
 ![Badge HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Badge CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Badge JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 
-![Badge atividade commit](https://img.shields.io/github/commit-activity/m/h4-DeS/calculadora-basica) ![Badge de status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow) 
+![Badge atividade commit](https://img.shields.io/github/commit-activity/m/h4-DeS/mochila-de-viagem) ![Badge de status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow) 
 <p>Projeto desenvolvido com o objetivo de praticar e desenvolver o conhecimento em HTML, CSS e JS.</p>
 <p>Uma mochila digital que permite a adição e remoção de itens, além de permitir salvá-la para uma posterior consulta ou alteração.</p>
 
