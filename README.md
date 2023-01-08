@@ -8,12 +8,12 @@
 
 ## Features
 
--'feat 1': adição de novos elementos :heavy_check_mark: 
--'feat 2': remoção de item
--'feat 3': salvar no LocalStorage a mochila com um nome
--'feat 4': selecionar a mochila salva pelos nomes e carregar conteúdo
--'feat 5': categorias para os elementos
--'feat 6': interface gráfica que permite mostrar e esconder as categorias, clicando em regiões da mochila
+- 'feat 1': adição de novos elementos :heavy_check_mark: 
+- 'feat 2': remoção de item
+- 'feat 3': salvar no LocalStorage a mochila com um nome
+- 'feat 4': selecionar a mochila salva pelos nomes e carregar conteúdo
+- 'feat 5': categorias para os elementos
+- 'feat 6': interface gráfica que permite mostrar e esconder as categorias, clicando em regiões da mochila
 
 ## Demonstração
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## Autor
 
-<p>H4-DeS</p>
+<p>- H4-DeS</p>
 
-<p>Créditos para o instrutor da <a href="https://www.alura.com.br/">Alura</a> --- <a href="https://github.com/pedromarins">@pedromarins</a> que forneceu os arquivos iniciais de HTML e CSS e deu as orientações para o JavaScript durante as aulas do curso de <a href="https://cursos.alura.com.br/course/javascript-web-armazenando-dados-navegador/">JavaScript na Web</a></p>
+<p>- Créditos para o instrutor da <a href="https://www.alura.com.br/">Alura</a> --- <a href="https://github.com/pedromarins">@pedromarins</a> que forneceu os arquivos iniciais de HTML e CSS e deu as orientações para o JavaScript durante as aulas do curso de <a href="https://cursos.alura.com.br/course/javascript-web-armazenando-dados-navegador/">JavaScript na Web</a></p>
 
