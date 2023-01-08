@@ -22,7 +22,7 @@
 
 ## Autor
 
-<p>- H4-DeS</p>
+- H4-DeS
 
-<p>- Créditos para o instrutor da <a href="https://www.alura.com.br/">Alura</a> --- <a href="https://github.com/pedromarins">@pedromarins</a> que forneceu os arquivos iniciais de HTML e CSS e deu as orientações para o JavaScript durante as aulas do curso de <a href="https://cursos.alura.com.br/course/javascript-web-armazenando-dados-navegador/">JavaScript na Web</a></p>
+- Créditos para o instrutor da <a href="https://www.alura.com.br/">Alura</a> --- <a href="https://github.com/pedromarins">@pedromarins</a> que forneceu os arquivos iniciais de HTML e CSS e deu as orientações para o JavaScript durante as aulas do curso de <a href="https://cursos.alura.com.br/course/javascript-web-armazenando-dados-navegador/">JavaScript na Web</a></p>
 
