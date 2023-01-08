@@ -1,5 +1,3 @@
-![Banner do 7Daysofcode](https://7daysofcode.io/assets/img/share-img-doc.1647533642.png)
-
 # Mochila de Viagem
 
 ![Badge HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Badge CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Badge JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -10,12 +8,12 @@
 
 ## Features
 
-'feat 1': adição de novos elementos :heavy_check_mark: 
-'feat 2': remoção de item
-'feat 3': salvar no LocalStorage a mochila com um nome
-'feat 4': selecionar a mochila salva pelos nomes e carregar conteúdo
-'feat 5': categorias para os elementos
-'feat 6': interface gráfica que permite mostrar e esconder as categorias, clicando em regiões da mochila
+-'feat 1': adição de novos elementos :heavy_check_mark: 
+-'feat 2': remoção de item
+-'feat 3': salvar no LocalStorage a mochila com um nome
+-'feat 4': selecionar a mochila salva pelos nomes e carregar conteúdo
+-'feat 5': categorias para os elementos
+-'feat 6': interface gráfica que permite mostrar e esconder as categorias, clicando em regiões da mochila
 
 ## Demonstração
 <p align="center">
