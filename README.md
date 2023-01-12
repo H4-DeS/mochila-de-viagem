@@ -9,7 +9,7 @@
 ## Features
 
 - 'feat 1': adição de novos elementos :heavy_check_mark: 
-- 'feat 2': remoção de item
+- 'feat 2': remoção de item :heavy_check_mark: 
 - 'feat 3': salvar no LocalStorage a mochila com um nome :heavy_check_mark:
 - 'feat 4': selecionar a mochila salva pelos nomes e carregar conteúdo
 - 'feat 5': categorias para os elementos

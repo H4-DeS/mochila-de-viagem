@@ -21,12 +21,12 @@ form.addEventListener("submit", (e) => {
         
     if(existe){
         itemAtual.id = existe.id;
-        atualizaElemento(itemAtual);
+        atualizaElemento(itemAtual); //Atualiza o HTML
+        itens[itens.findIndex(e => e.id === existe.id)] = itemAtual; //Atualiza o array
     } else {
-        itemAtual.id = itens.length;
-        
+        itemAtual.id = itens[itens.length - 1] ? (itens[itens.length -1]).id + 1 : 0; //testa se a length do array não é false, caso seja atribui 0, caso contrário soma 1
         adicionaElemento(itemAtual);
-        itens.push(itemAtual); //insere um objeto novo na array itens   
+        itens.push(itemAtual); //insere um novo objeto no array itens   
               
     }
 
@@ -44,8 +44,9 @@ function adicionaElemento(item){
     qtdNovoItem.innerHTML = item.quantidade;
     novoItem.appendChild(qtdNovoItem);
     novoItem.innerHTML += item.nome;
+    novoItem.appendChild (botaoDeleta(item.id));
     lista.appendChild(novoItem);
-    
+        
 }
 
 function atualizaElemento(item){
@@ -53,4 +54,20 @@ function atualizaElemento(item){
     document.querySelector('[data-id="' + item.id + '"]').innerHTML = item.quantidade;
     itens[item.id].quantidade = item.quantidade; 
 
+}
+
+function botaoDeleta(id) {
+    const botaoDeleta = document.createElement("button");
+    botaoDeleta.innerHTML = "X";
+    botaoDeleta.addEventListener('click', function (){
+        console.log(this.parentNode);
+        removeElemento(this.parentNode, id);
+    })
+    return botaoDeleta
+}
+
+function removeElemento(tag, id) {
+    tag.remove();
+    itens.splice(itens.findIndex(elemento => elemento.id == id), 1);
+    localStorage.setItem("itens", JSON.stringify(itens));
 }
