@@ -17,7 +17,7 @@
 
 ## Demonstração
 <p align="center">
-<img src="">
+<img src="https://github.com/H4-DeS/mochila-de-viagem/blob/main/preview.gif">
 </p>
 
 ## Autor
